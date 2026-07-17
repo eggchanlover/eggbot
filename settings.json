@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "ohhshidding.minefort.com",
-    "port": 19132,
-    "version": "",
+    "port": 25565,
+    "version": "1.26.30",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        i am egg
       ]
     },
     "chat-log": true,
